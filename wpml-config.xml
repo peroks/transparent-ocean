@@ -1,0 +1,24 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">troc_banner_attachment</custom-field>
+		<custom-field action="copy">troc_banner_enable</custom-field>
+		<custom-field action="copy">troc_banner_height</custom-field>
+		<custom-field action="copy">troc_banner_position</custom-field>
+		<custom-field action="copy">troc_banner_repeat</custom-field>
+		<custom-field action="copy">troc_banner_size</custom-field>
+		<custom-field action="copy">troc_header_sticky_inherit</custom-field>
+		<custom-field action="copy">troc_slider_arrows</custom-field>
+		<custom-field action="copy">troc_slider_autoplay</custom-field>
+		<custom-field action="copy">troc_slider_autostop</custom-field>
+		<custom-field action="copy">troc_slider_caption</custom-field>
+		<custom-field action="copy">troc_slider_credit</custom-field>
+		<custom-field action="copy">troc_slider_dots</custom-field>
+		<custom-field action="copy">troc_slider_enable</custom-field>
+		<custom-field action="copy">troc_slider_lazyload</custom-field>
+		<custom-field action="copy">troc_slider_style</custom-field>
+		<custom-field action="copy">troc_slider_thumb</custom-field>
+	</custom-fields>
+	<custom-term-fields>
+		<custom-term-field action="copy">thumbnail_id</custom-term-field>
+	</custom-term-fields>
+</wpml-config>
